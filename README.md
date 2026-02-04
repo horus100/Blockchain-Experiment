@@ -1,5 +1,4 @@
-# Llapa-Yachay
-#### Quechua translation: All - Know
+# Blockchain Experiment
 ## Blockchain model for university degree registration and issuance
 ------------
 It is a blockchain model focused on the registration and issuance of university degrees, which can consist of up to five participating nodes, with an additional node dedicated to interaction with the public.
