@@ -17,9 +17,9 @@ This project has been developed and tested on Linux only, and the environment mu
 
 Note: Before proceeding, check that the above requirements are met.
 
-1. Download or clone the repository, and go into the Llapayachay folder, and then into the src subfolder:
+1. Download or clone the repository, and go into the folder, and then into the src subfolder:
 
-        cd Llapa-Yachay
+        cd folder
         cd src
 
 2. In this folder you will find 2 other folders called participants and public, first go to the participants folder:
